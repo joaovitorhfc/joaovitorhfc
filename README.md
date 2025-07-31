@@ -1,50 +1,99 @@
-<div>
-<h1 align="center">👋 Olá, Mundo! Sou o João Vitor!</h1>
 
-<p align="center">Estudante de Ciência da Computação | Entusiasta em Machine Learning e Desenvolvimento Web</p>
+# 👩🏻‍💻 João Vitor Hermes 
 
----
+**`Estudante de Ciência da Computação | Entusiasta em Machine Learning e Desenvolvimento Web`**
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorhfc&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorhfc&layout=compact&theme=radical" />
-</div>
-
----
-
-### 🧠 Tecnologias e Ferramentas
-
-<div style="display: flex; gap: 10px">
-  
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F61?style=flat&logo=keras&logoColor=white)
-
-</div>
-
----
-
-### 📈 Contribuições Recentes
-
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://github.com/joaovitorhfc/joaovitorhfc/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+Me chamo João Vitor Hermes. Atualmente, estou cursando Ciência da Computação. Sou apaixonado por tecnologia e entusiasta sobre Inteligência Artificial. 
+<br />
+<br />
+🦺✔- Estagiando em INB / Interning at INB (Industrias Nucleares Brasileiras)
+<br />
+🎯💻- Estudando sobre Inteligência Artificial / Studying Artificial Intelligence
+<br />
+📢📞- Meu email / My email: <a href="mailto:joaovitorhfc@gmail.com">joaovitorhfc@gmail.com</a>
+<br />
+<br />
+    <a href="https://github.com/joaovitorhfc?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/joaovitorhfc?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/joaovitorhfc?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/joaovitorhfc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
 
-### 📫 Onde me encontrar
+### 🤖 Linguagens e Tecnologias
 
-Instagram: @joaovitorhfc
-Gmail: joaovitorhfc@gmail.com
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
----
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-</div>
+<br/>
+<br/>
 
--  I’m currently learning Pyhton, Javascript and Machine Learning
--  I`m working at Industrias Nucleares do Brasil (INB)
--  I speak Portuguese, English and Spanish
--  🎯💻🐱‍🏍✔
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=joaovitorhfc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorhfc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
