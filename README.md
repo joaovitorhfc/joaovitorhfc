@@ -48,9 +48,8 @@ Me chamo João Vitor Hermes. Atualmente, estou cursando Ciência da Computação
     tittle="Java"
     width="30px"
     style="padding-right: 10px;"
-    src="
-     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
-         />
+    src="href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+/>
           
     
 
