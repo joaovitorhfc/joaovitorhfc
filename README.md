@@ -42,17 +42,6 @@ Me chamo João Vitor Hermes. Atualmente, estou cursando Ciência da Computação
 
 ### 🤖 Linguagens e Tecnologias
 
-<img
-    align="left"
-    alt="Java"
-    tittle="Java"
-    width="30px"
-    style="padding-right: 10px;"
-    src="href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
-/>
-          
-    
-
 <img 
     align="left" 
     alt="HTML"
@@ -61,6 +50,7 @@ Me chamo João Vitor Hermes. Atualmente, estou cursando Ciência da Computação
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="C" 
@@ -69,6 +59,16 @@ Me chamo João Vitor Hermes. Atualmente, estou cursando Ciência da Computação
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Java"
+    title="Jav a" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="JavaScript" 
