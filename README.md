@@ -31,13 +31,6 @@ Me chamo João Vitor Hermes. Atualmente, estou cursando Ciência da Computação
 <br />
 <br />
 
-<div align=center>
-
-<img src="https://raw.githubusercontent.com/joaovitorhfc/joaovitorhfc/output/snake.svg" alt="Snake animation" />
- 
-</div>
-
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
