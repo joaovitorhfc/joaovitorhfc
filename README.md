@@ -86,10 +86,9 @@ Me chamo João Vitor Hermes. Atualmente, estou cursando Ciência da Computação
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
+    />
           
-/>
-
 <img 
     align="left" 
     alt="Python" 
