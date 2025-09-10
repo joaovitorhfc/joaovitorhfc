@@ -68,7 +68,7 @@ Me chamo João Vitor Hermes. Atualmente, estou cursando Ciência da Computação
     title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c#/c#-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 />
 
 <img 
@@ -86,7 +86,8 @@ Me chamo João Vitor Hermes. Atualmente, estou cursando Ciência da Computação
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+          
 />
 <img 
     align="left" 
