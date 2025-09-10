@@ -64,17 +64,17 @@ Me chamo João Vitor Hermes. Atualmente, estou cursando Ciência da Computação
 
 <img 
     align="left" 
-    alt="C" 
-    title="C"
+    alt="C#" 
+    title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c#/c#-original.svg" 
 />
 
 <img 
     align="left" 
     alt="Java"
-    title="Jav a" 
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
@@ -82,11 +82,11 @@ Me chamo João Vitor Hermes. Atualmente, estou cursando Ciência da Computação
 
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="SQL" 
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" 
 />
 <img 
     align="left" 
