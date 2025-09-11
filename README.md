@@ -1,5 +1,5 @@
 
-# 👩🏻‍💻 João Vitor Hermes 
+# 👩 João Vitor Hermes 
 
 **`Estudante de Ciência da Computação | Entusiasta em Machine Learning e Desenvolvimento Web`**
 
