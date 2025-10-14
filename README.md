@@ -2,9 +2,9 @@
 
 **Estudante de Ciência da Computação | Entusiasta em Machine Learning e Desenvolvimento Web**
 
-🦺✔- Estagiando em INB  
-🎯💻- Estudando Inteligência Artificial  
-📢📞- Email: joaovitorhfc@gmail.com
+🦺✔- Estagiando em INB  // Intershipping in INB
+🎯💻- Estudando Inteligência Artificial // Studying Artificial Intelligence 
+📢📞- Meu email: joaovitorhfc@gmail.com // My email: joaovitorhfc@gmail.com
 
 ---
 
