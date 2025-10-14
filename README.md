@@ -7,7 +7,7 @@
 <br>
 🎯💻- Estudando Inteligência Artificial // Studying Artificial Intelligence 
 <br>
-📢📞- Meu email // My email:: joaovitorhfc@gmail.com 
+📢📞- Meu email // My email: joaovitorhfc@gmail.com 
 
 ---
 
