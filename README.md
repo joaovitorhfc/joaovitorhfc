@@ -1,33 +1,45 @@
-# João Vitor Hermes 
-
-**Estudante de Ciência da Computação | Entusiasta em Machine Learning e Desenvolvimento Full-stack**
-**Science of computation | Enthusiast in Machine Learning and Full-stack Developing**
-
-🦺✔- Estagiando em INB  // Intershipping in INB
-<br>
-🎯💻- Estudando Inteligência Artificial // Studying Artificial Intelligence 
-<br>
-📢📞- Meu email // My email: joaovitorhfc@gmail.com 
+<h1 align="center">👋 Olá, eu sou o João Vitor Hermes</h1>
+<h3 align="center">💻 Estudante de Ciência da Computação | Entusiasta em Machine Learning e Desenvolvimento Full-Stack</h3>
+<h4 align="center">🌐 Computer Science Student | Enthusiast in Machine Learning and Full-Stack Development</h4>
 
 ---
 
-### 🤖 Linguagens e Tecnologias // Languages and technologies
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+### 🧠 Sobre mim // About me
+- 🦺 Estagiando na **INB (Indústrias Nucleares do Brasil)**  
+  🧑‍💻 *Intern at INB (Nuclear Industries of Brazil)*  
+- 🎯 Atualmente estudando **Inteligência Artificial** e **Desenvolvimento Web**  
+  🚀 *Currently studying Artificial Intelligence and Web Development*  
+- 📧 Email: **joaovitorhfc@gmail.com**
 
-<br/><br/>
+---
+
+### ⚙️ Linguagens e Tecnologias // Languages & Technologies
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
+</p>
 
 ---
 
 ### 📊 Estatísticas // Statistics
 
-<p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=joaovitorhfc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorhfc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorhfc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorhfc&layout=compact&langs_count=9&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas"/>
 </p>
 
-<br/><br/>
+---
+
+### 🏆 Conquistas // Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joaovitorhfc&theme=tokyonight&margin-w=10&no-frame=true&no-bg=true&row=1" />
+</p>
+
+---
+
+### 📈
