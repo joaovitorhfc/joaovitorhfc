@@ -29,9 +29,3 @@
 </p>
 
 <br/><br/>
-
----
-
-### 🐍 Cobrinha das contribuições
-
-[![Snake animation](https://raw.githubusercontent.com/Ileriayo/github-readme-snake/master/output/github-contribution-grid-snake.svg)](https://github.com/joaovitorhfc)
