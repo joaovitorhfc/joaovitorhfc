@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o João Vitor Hermes</h1>
+<h1 align="center">👋 Hi there! I"m João Vitor Hermes</h1>
 <h3 align="center">💻 Estudante de Ciência da Computação | Entusiasta em Machine Learning e Desenvolvimento Full-Stack</h3>
 <h4 align="center">🌐 Computer Science Student | Enthusiast in Machine Learning and Full-Stack Development</h4>
 
@@ -42,4 +42,31 @@
 
 ---
 
-### 📈
+### 📈 Atividade // Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovitorhfc&theme=tokyonight&locale=pt-br" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 Contribuições // Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joaovitorhfc/joaovitorhfc/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 🌎 Conecte-se comigo // Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaovitorhfc/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:joaovitorhfc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h4 align="center">✨ “Transformando ideias em código e desafios em aprendizado.” ✨</h4>
