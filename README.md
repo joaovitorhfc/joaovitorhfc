@@ -4,7 +4,9 @@
 **Science of computation | Enthusiast in Machine Learning and Full-stack Developing**
 
 🦺✔- Estagiando em INB  // Intershipping in INB
+<br>
 🎯💻- Estudando Inteligência Artificial // Studying Artificial Intelligence 
+<br>
 📢📞- Meu email: joaovitorhfc@gmail.com // My email: joaovitorhfc@gmail.com
 
 ---
