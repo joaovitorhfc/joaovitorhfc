@@ -1,6 +1,7 @@
-# João Vitor Hermes
+# João Vitor Hermes 
 
-**Estudante de Ciência da Computação | Entusiasta em Machine Learning e Desenvolvimento Web**
+**Estudante de Ciência da Computação | Entusiasta em Machine Learning e Desenvolvimento Full-stack**
+**Science of computation | Enthusiast in Machine Learning and Full-stack Developing**
 
 🦺✔- Estagiando em INB  // Intershipping in INB
 🎯💻- Estudando Inteligência Artificial // Studying Artificial Intelligence 
@@ -8,8 +9,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
+### 🤖 Linguagens e Tecnologias // Languages and technologies
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -21,7 +21,7 @@
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas // Statistics
 
 <p>
   <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=joaovitorhfc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
