@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I"m João Vitor Hermes</h1>
+<h1 align="center">👋 Olá, eu sou o João Vitor Hermes // Hi there, i'm João Vitor Hermes</h1>
 <h3 align="center">💻 Estudante de Ciência da Computação | Entusiasta em Machine Learning e Desenvolvimento Full-Stack</h3>
 <h4 align="center">🌐 Computer Science Student | Enthusiast in Machine Learning and Full-Stack Development</h4>
 
@@ -9,7 +9,6 @@
   🧑‍💻 *Intern at INB (Nuclear Industries of Brazil)*  
 - 🎯 Atualmente estudando **Inteligência Artificial** e **Desenvolvimento Web**  
   🚀 *Currently studying Artificial Intelligence and Web Development*  
-- 📧 Email: **joaovitorhfc@gmail.com**
 
 ---
 
@@ -62,11 +61,5 @@
   <a href="https://www.linkedin.com/in/joaovitorhfc/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:joaovitorhfc@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
----
-
-<h4 align="center">✨ “Transformando ideias em código e desafios em aprendizado.” ✨</h4>
