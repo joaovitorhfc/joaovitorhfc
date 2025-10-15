@@ -36,8 +36,62 @@
 </p>
 
 🐍 Contribuições // Contributions
+<h1 align="center">👋 Olá, eu sou o João Vitor Hermes // Hi there, i'm João Vitor Hermes</h1>
+<h3 align="center">💻 Estudante de Ciência da Computação | Entusiasta em Machine Learning e Desenvolvimento Full-Stack</h3>
+<h4 align="center">🌐 Computer Science Student | Enthusiast in Machine Learning and Full-Stack Development</h4>
+
+🧠 Sobre mim // About me
+🦺 Estagiando na INB (Indústrias Nucleares do Brasil)  
+   Intern at INB (Nuclear Industries of Brazil)  
+
+🎯 Atualmente estudando Inteligência Artificial e Desenvolvimento Web  
+   Currently studying Artificial Intelligence and Web Development  
+
+⚙️ Linguagens e Tecnologias // Languages & Technologies
 <p align="center">
-<img src=https://raw.githubusercontent.com/joaovitorhfc/joaovitorhfc/output/github-contribution-grid-snake.svg?t=202510142135
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
+</p>
+
+📊 Estatísticas // Statistics
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorhfc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorhfc&layout=compact&langs_count=9&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas"/>
+</p>
+
+🏆 Conquistas // Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joaovitorhfc&theme=tokyonight&margin-w=10&no-frame=true&no-bg=true&row=1" />
+</p>
+
+📈 Atividade // Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovitorhfc&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
+</p>
+
+🐍 Contribuições // Contributions
+<p align="center">
+<div style="
+border: 1px solid #30363d;
+border-radius: 6px;
+padding: 10px;
+background-color: #0d1117;
+display: inline-block;">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/joaovitorhfc/joaovitorhfc/output/github-contribution-grid-snake.svg%3Ft%3D202510142135" alt="Snake animation" />
+</div>
+</p>
+
+🌎 Conecte-se comigo // Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaovitorhfc/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="mailto:joaovitorhfc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 🌎 Conecte-se comigo // Connect with me
