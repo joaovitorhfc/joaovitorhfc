@@ -5,9 +5,13 @@
 ---
 
 ### 🧠 Sobre mim // About me
-🦺 Estagiando na INB (Indústrias Nucleares do Brasil) // Intern at INB (Nuclear Industries of Brazil)  
+🦺 Estagiando na INB (Indústrias Nucleares do Brasil) 
 <br>
-🎯 Atualmente estudando Inteligência Artificial e Desenvolvimento Web // Currently studying Artificial Intelligence and Web Development  
+Intern at INB (Nuclear Industries of Brazil)  
+<br>
+🎯 Atualmente estudando Inteligência Artificial e Desenvolvimento Web 
+<br>
+Currently studying Artificial Intelligence and Web Development  
 
 ---
 
