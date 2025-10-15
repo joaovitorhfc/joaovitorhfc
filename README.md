@@ -4,14 +4,15 @@
 
 ---
 
-### 🧠 Sobre mim // About me
-🦺 Estagiando na INB (Indústrias Nucleares do Brasil) 
-<br>
-• Intern at INB (Nuclear Industries of Brazil)  
-<br>
-🎯 Atualmente estudando Inteligência Artificial e Desenvolvimento Web 
-<br>
-• Currently studying Artificial Intelligence and Web Development  
+### 🧠 Sobre mim // About Me
+
+🦺 **Estágio / Internship**  
+- Estagiando na INB (Indústrias Nucleares do Brasil)  
+- Intern at INB (Nuclear Industries of Brazil)  
+
+🎯 **Áreas de Estudo / Current Focus**  
+- Inteligência Artificial e Desenvolvimento Web  
+- Artificial Intelligence and Web Development
 
 ---
 
@@ -64,6 +65,11 @@
 ---
 
 ### 🌎 Conecte-se comigo // Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-hermes-399760286/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitorhfc@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-hermes-399760286/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:joaovitorhfc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
