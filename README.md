@@ -64,7 +64,7 @@
 
 ### 🌎 Conecte-se comigo // Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/joaovitorhfc/" target="_blank">
+  <a href="https://www.linkedin.com/in/joão-vitor-hermes-399760286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:joaovitorhfc@gmail.com">
