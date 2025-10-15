@@ -2,12 +2,15 @@
 <h3 align="center">💻 Estudante de Ciência da Computação | Entusiasta em Machine Learning e Desenvolvimento Full-Stack</h3>
 <h4 align="center">🌐 Computer Science Student | Enthusiast in Machine Learning and Full-Stack Development</h4>
 
+---
+
 🧠 Sobre mim // About me
 🦺 Estagiando na INB (Indústrias Nucleares do Brasil)  
    Intern at INB (Nuclear Industries of Brazil)  
-
 🎯 Atualmente estudando Inteligência Artificial e Desenvolvimento Web  
    Currently studying Artificial Intelligence and Web Development  
+
+   ---
 
 ⚙️ Linguagens e Tecnologias // Languages & Technologies
 <p align="center">
@@ -19,21 +22,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
 </p>
 
+---
+
 📊 Estatísticas // Statistics
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorhfc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorhfc&layout=compact&langs_count=9&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas"/>
 </p>
 
+---
+
 🏆 Conquistas // Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joaovitorhfc&theme=tokyonight&margin-w=10&no-frame=true&no-bg=true&row=1" />
 </p>
 
+---
+
 📈 Atividade // Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovitorhfc&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
 </p>
+
+---
 
 🐍 Contribuições // Contributions
 <p align="center">
