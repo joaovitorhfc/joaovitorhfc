@@ -47,14 +47,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovitorhfc&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
 </p>
 
----
-
-###🐍 Contribuições // Contributions
+🐍 Contribuições // Contributions
 <p align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/joaovitorhfc/joaovitorhfc/output/github-contribution-grid-snake.svg%3Ft%3D202510142125" alt="Snake animation" />
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/joaovitorhfc/joaovitorhfc/output/github-contribution-grid-snake.svg%3Ft%3D202510142130" alt="Snake animation" />
 </p>
-
----
 
 ### 🌎 Conecte-se comigo // Connect with me
 <p align="center">
