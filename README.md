@@ -49,9 +49,9 @@
 
 ---
 
-### 🐍 Contribuições // Contributions
+###🐍 Contribuições // Contributions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joaovitorhfc/joaovitorhfc/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/joaovitorhfc/joaovitorhfc/output/github-contribution-grid-snake.svg%3Ft%3D202510142125" alt="Snake animation" />
 </p>
 
 ---
