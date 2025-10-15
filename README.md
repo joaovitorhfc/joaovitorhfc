@@ -37,7 +37,7 @@
 
 🐍 Contribuições // Contributions
 <p align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/joaovitorhfc/joaovitorhfc/output/github-contribution-grid-snake.svg%3Ft%3D202510142135" alt="Snake animation" />
+<img src=https://raw.githubusercontent.com/joaovitorhfc/joaovitorhfc/output/github-contribution-grid-snake.svg?t=202510142135
 </p>
 
 🌎 Conecte-se comigo // Connect with me
