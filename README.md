@@ -66,7 +66,7 @@
 
 ### 🌎 Conecte-se comigo // Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-hermes-399760286/" target="_blank">
+  <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     <img src="https://img.shields.io/badge/-Joao%20Hermes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/joaovitorhfc/" target="_blank">
