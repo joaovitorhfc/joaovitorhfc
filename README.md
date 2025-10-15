@@ -4,15 +4,17 @@
 
 ---
 
-🧠 Sobre mim // About me
+### 🧠 Sobre mim // About me
+<br>
 🦺 Estagiando na INB (Indústrias Nucleares do Brasil)  
    Intern at INB (Nuclear Industries of Brazil)  
+<br>
 🎯 Atualmente estudando Inteligência Artificial e Desenvolvimento Web  
    Currently studying Artificial Intelligence and Web Development  
 
    ---
 
-⚙️ Linguagens e Tecnologias // Languages & Technologies
+### ⚙️ Linguagens e Tecnologias // Languages & Technologies
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="45" height="45"/>&nbsp;
@@ -24,7 +26,7 @@
 
 ---
 
-📊 Estatísticas // Statistics
+### 📊 Estatísticas // Statistics
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorhfc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorhfc&layout=compact&langs_count=9&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas"/>
@@ -32,21 +34,21 @@
 
 ---
 
-🏆 Conquistas // Achievements
+### 🏆 Conquistas // Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joaovitorhfc&theme=tokyonight&margin-w=10&no-frame=true&no-bg=true&row=1" />
 </p>
 
 ---
 
-📈 Atividade // Activity
+### 📈 Atividade // Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovitorhfc&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
 </p>
 
 ---
 
-🐍 Contribuições // Contributions
+### 🐍 Contribuições // Contributions
 <p align="center">
   <span style="
     display: inline-block;
