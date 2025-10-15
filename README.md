@@ -6,25 +6,25 @@
 
 ### 🧠 Sobre mim // About Me
 
-🦺 **Estágio / Internship**  
-- Estagiando na INB (Indústrias Nucleares do Brasil)  
-- Intern at INB (Nuclear Industries of Brazil)  
+🦺 **Estágio / Internship**  
+- Estagiando na INB (Indústrias Nucleares do Brasil)  
+- Intern at INB (Nuclear Industries of Brazil)  
 
-🎯 **Áreas de Estudo / Current Focus**  
-- Inteligência Artificial e Desenvolvimento Web  
+🎯 **Áreas de Estudo / Current Focus**  
+- Inteligência Artificial e Desenvolvimento Web  
 - Artificial Intelligence and Web Development
 
 ---
 
 ### ⚙️ Linguagens e Tecnologias // Languages & Technologies
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
-</p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
+  </p>
 
 ---
 
@@ -52,27 +52,27 @@
 
 ### 🐍 Contribuições // Contributions
 <p align="center">
-  <span style="
-    display: inline-block;
-    padding: 15px;
-    border: 2px solid #4caf50;
-    border-radius: 12px;
-    background-color: #0d1117;">
-    <img src="https://raw.githubusercontent.com/joaovitorhfc/joaovitorhfc/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  </span>
+  <span style="
+    display: inline-block;
+    padding: 15px;
+    border: 2px solid #4caf50;
+    border-radius: 12px;
+    background-color: #0d1117;">
+    <img src="https://raw.githubusercontent.com/joaovitorhfc/joaovitorhfc/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </span>
 </p>
 
 ---
 
 ### 🌎 Conecte-se comigo // Connect with me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-hermes-399760286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/joaovitorhfc/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="mailto:joaovitorhfc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-    <a href="https://www.instagram.com/joaovitorhfc/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
