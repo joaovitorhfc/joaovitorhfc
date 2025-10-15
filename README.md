@@ -36,16 +36,10 @@
 </p>
 
 🐍 Contribuições // Contributions
-<p align="center">
-<div style="
-border: 1px solid #30363d;
-border-radius: 6px;
-padding: 10px;
-background-color: #0d1117;
-display: inline-block;">
-<img src="https://raw.githubusercontent.com/joaovitorhfc/joaovitorhfc/output/github-contribution-grid-snake.svg%3Ft%3D202510142135" alt="Snake animation" />
-</div>
+<p align="center" style="display: inline-block; border: 1px solid #30363d; border-radius: 6px; padding: 10px; background-color: #0d1117;">
+  <img src="https://raw.githubusercontent.com/joaovitorhfc/joaovitorhfc/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
 🌎 Conecte-se comigo // Connect with me
 <p align="center">
