@@ -70,9 +70,9 @@
     <img src="https://img.shields.io/badge/-João%20Vitor%20Hermes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/joaovitorhfc/" target="_blank">
-    <img src="https://img.shields.io/badge/-@joaovitorhfc-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/@joaovitorhfc-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:joaovitorhfc@gmail.com">
-    <img src="https://img.shields.io/badge/-joaovitorhfc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/joaovitorhfc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
