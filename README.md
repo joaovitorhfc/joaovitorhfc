@@ -60,7 +60,7 @@
   </span>
 </p>
 
-
+---
 
 ### 🌎 Conecte-se comigo // Connect with me
 <p align="center">
