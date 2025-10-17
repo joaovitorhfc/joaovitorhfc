@@ -64,7 +64,7 @@
 ---
 
 
-### 🐍 Contribuições // Contributions
+### 🐍 Contribuições // Commits
 <p align="center">
   <span style="
     display: inline-block;
