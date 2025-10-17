@@ -5,7 +5,6 @@
 ---
 
 ### 🧠 Sobre mim // About Me
-<br>
 🦺 **Estágio / Internship**  
 - Estagiando na INB (Indústrias Nucleares do Brasil)  
 - Intern at INB (Nuclear Industries of Brazil)  
