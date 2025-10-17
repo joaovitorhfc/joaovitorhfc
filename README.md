@@ -5,7 +5,7 @@
 ---
 
 ### 🧠 Sobre mim // About Me
-<p align="center">
+<br>
 🦺 **Estágio / Internship**  
 - Estagiando na INB (Indústrias Nucleares do Brasil)  
 - Intern at INB (Nuclear Industries of Brazil)  
@@ -13,7 +13,7 @@
 🎯 **Áreas de Estudo / Current Focus**  
 - Inteligência Artificial e Desenvolvimento Web  
 - Artificial Intelligence and Web Development
-</p>
+
 
 ---
 
