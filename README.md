@@ -81,7 +81,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-hermes-399760286/" target="_blank">
+  <a href="www.linkedin.com/in/joao-vitor-hermes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&v=999" />
   </a>
   <a href="https://www.instagram.com/joaovitorhfc/" target="_blank">
