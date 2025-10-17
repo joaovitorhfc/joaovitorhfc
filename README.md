@@ -4,6 +4,7 @@
 
 ---
 
+<p align="center">
 ### 🧠 Sobre mim // About Me
 
 🦺 **Estágio / Internship**  
@@ -13,6 +14,7 @@
 🎯 **Áreas de Estudo / Current Focus**  
 - Inteligência Artificial e Desenvolvimento Web  
 - Artificial Intelligence and Web Development
+</p>
 
 ---
 
