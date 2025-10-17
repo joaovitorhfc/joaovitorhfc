@@ -9,13 +9,11 @@
 - Estagiando na INB (Indústrias Nucleares do Brasil)  
 - Intern at INB (Nuclear Industries of Brazil)
   
- <p align="left">
    
 🎯 **Áreas de Estudo / Current Focus**  
 - Inteligência Artificial e Desenvolvimento Web  
 - Artificial Intelligence and Web Development
   
-</p>
 
 ---
 
@@ -34,7 +32,9 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
 </p>
 
+
 ---
+
 
 ### 📊 Estatísticas // Statistics
 <p align="center">
@@ -42,21 +42,27 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorhfc&layout=compact&langs_count=9&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas"/>
 </p>
 
+
 ---
+
 
 ### 🏆 Conquistas // Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joaovitorhfc&theme=tokyonight&margin-w=10&no-frame=true&no-bg=true&row=1" />
 </p>
 
+
 ---
+
 
 ### 📈 Atividade // Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovitorhfc&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
 </p>
 
+
 ---
+
 
 ### 🐍 Contribuições // Contributions
 <p align="center">
@@ -70,7 +76,9 @@
   </span>
 </p>
 
+
 ---
+
 
 ### 🌎 Conecte-se comigo // Connect with me
 <p align="center">
