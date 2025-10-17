@@ -1,11 +1,11 @@
-<h1 align="center">👋💻 Olá, eu sou o João Vitor Hermes // Hi there, i'm João Vitor Hermes</h1>
+<h1 align="center">👋🌎 Olá, eu sou o João Vitor Hermes // Hi there, i'm João Vitor Hermes</h1>
 <h3 align="center">💻 Estudante de Ciência da Computação | Entusiasta em Machine Learning e Desenvolvimento Full-Stack</h3>
 <h4 align="center">🌐 Computer Science Student | Enthusiast in Machine Learning and Full-Stack Development</h4>
 
 ---
 
 ### 🧠 Sobre mim // About Me
-🦺 **Estágio / Internship**  
+☢️ **Estágio / Internship**  
 - Estagiando na INB (Indústrias Nucleares do Brasil)  
 - Intern at INB (Nuclear Industries of Brazil)
   
