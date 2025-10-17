@@ -4,21 +4,19 @@
 
 ---
 
-## 🧠 Sobre mim // About Me
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      🦺 **Estágio / Internship** <br>
-      - Estagiando na INB (Indústrias Nucleares do Brasil) <br>
-      - Intern at INB (Nuclear Industries of Brazil)
-    </td>
-    <td align="center" width="50%">
-      🎯 **Áreas de Estudo / Current Focus** <br>
-      - Inteligência Artificial e Desenvolvimento Web <br>
-      - Artificial Intelligence and Web Development
-    </td>
-  </tr>
-</table>
+<h2 align="center">🧠 Sobre mim // About Me</h2>
+<div align="center">
+  <p>
+    🦺 **Estágio / Internship** <br>
+    - Estagiando na INB (Indústrias Nucleares do Brasil) <br>
+    - Intern at INB (Nuclear Industries of Brazil)
+  </p>
+  <p>
+    🎯 **Áreas de Estudo / Current Focus** <br>
+    - Inteligência Artificial e Desenvolvimento Web <br>
+    - Artificial Intelligence and Web Development
+  </p>
+</div>
 
 ---
 
@@ -39,16 +37,10 @@
 ---
 
 <h2 align="center">📊 Estatísticas // Statistics</h2>
-<table align="center">
-  <tr>
-    <td align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorhfc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-    </td>
-    <td align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorhfc&layout=compact&langs_count=9&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorhfc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorhfc&layout=compact&langs_count=9&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas"/>
+</p>
 
 ---
 
