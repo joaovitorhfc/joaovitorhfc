@@ -9,7 +9,7 @@
 - Estagiando na INB (Indústrias Nucleares do Brasil)  
 - Intern at INB (Nuclear Industries of Brazil)
   
- <p align="right">
+ <p align="left">
    
 🎯 **Áreas de Estudo / Current Focus**  
 - Inteligência Artificial e Desenvolvimento Web  
