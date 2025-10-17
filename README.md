@@ -10,9 +10,10 @@
 - Intern at INB (Nuclear Industries of Brazil)  
 
 🎯 **Áreas de Estudo / Current Focus**  
+<p align="right">
 - Inteligência Artificial e Desenvolvimento Web  
 - Artificial Intelligence and Web Development
-
+</p>
 
 ---
 
