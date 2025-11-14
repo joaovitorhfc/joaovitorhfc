@@ -32,16 +32,6 @@
 ---
 
 
-### 📊 Estatísticas // Statistics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorhfc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorhfc&layout=compact&langs_count=9&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas"/>
-</p>
-
-
----
-
-
 ### 🏆 Conquistas // Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joaovitorhfc&theme=tokyonight&margin-w=10&no-frame=true&no-bg=true&row=1" />
