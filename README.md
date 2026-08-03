@@ -28,16 +28,18 @@
 
 ---
 
-### 🏆 Estatísticas e Conquistas // Stats & Achievements
+### 🏆 Estatísticas Gerais // Overall Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovitorhfc&repo=github-readme-stats&theme=tokyonight&hide_border=true" />
+  <!-- Estatísticas Gerais do Perfil -->
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovitorhfc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 📈 Resumo de Atividade // Activity Summary
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovitorhfc&show_icons=true&theme=tokyonight&hide_border=true" width="95%"/>
+  <!-- Gráfico de Streak (Mais estável que o Activity Graph anterior) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovitorhfc&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
 </p>
 
 ---
