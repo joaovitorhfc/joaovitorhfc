@@ -1,6 +1,6 @@
 <h1 align="center">👋🌎 Olá, eu sou o João Vitor Hermes // Hi there, i'm João Vitor Hermes</h1>
-<h3 align="center">💻 Estudante de Ciência da Computação | Entusiasta em Machine Learning e Desenvolvimento Full-Stack</h3>
-<h4 align="center">🌐 Computer Science Student | Enthusiast in Machine Learning and Full-Stack Development</h4>
+<h3 align="center">💻 Estudante de Ciência da Computação | Desenvolvimento Full-Stack e Análise de Dados</h3>
+<h4 align="center">🌐 Computer Science Student | Full-Stack Development and Data analyst </h4>
 
 ---
 
@@ -10,8 +10,8 @@
 - Intern at INB (Nuclear Industries of Brazil)  
   
 🎯 **Áreas de Estudo / Current Focus**  
-- Inteligência Artificial e Desenvolvimento Web  
-- Artificial Intelligence and Web Development  
+- Desenvolvimento web, análise de dados e inteligência artificial
+- Web development, data analyst and artificial intelligence 
 
 ---
 
