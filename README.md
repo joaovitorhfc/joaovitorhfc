@@ -1,6 +1,6 @@
 <h1 align="center">👋🌎 Olá, eu sou o João Vitor Hermes // Hi there, i'm João Vitor Hermes</h1>
-<h3 align="center">💻 Estudante de Ciência da Computação | Desenvolvimento Full-Stack e Análise de Dados</h3>
-<h4 align="center">🌐 Computer Science Student | Full-Stack Development and Data analyst </h4>
+<h3 align="center">💻 Estudante de Ciência da Computação | Desenvolvimento Full-Stack </h3>
+<h4 align="center">🌐 Computer Science Student | Full-Stack Development </h4>
 
 ---
 
